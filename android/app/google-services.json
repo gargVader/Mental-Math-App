@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "281951453985",
+    "project_id": "mentalmath-3a7c8",
+    "storage_bucket": "mentalmath-3a7c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281951453985:android:efd8103b65022b64ed7460",
+        "android_client_info": {
+          "package_name": "com.example.mentalmath"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281951453985-6fah86p8v943pj9oq9v72d036eq3b5nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk46EyYEGw_ow01ikGM9HylM7GoqAJM60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281951453985-6fah86p8v943pj9oq9v72d036eq3b5nk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
